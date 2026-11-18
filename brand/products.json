@@ -1,0 +1,34 @@
+{
+  "ecosystem": "HanZ",
+  "products": [
+    {
+      "name": "HanZ Finance",
+      "category": "Personal finance management",
+      "description": "A personal finance management platform for tracking income and expenses, managing money and planning savings goals.",
+      "publicUrl": "https://hanzfinance.name.ng/",
+      "status": "Live platform"
+    },
+    {
+      "name": "ZakAI",
+      "category": "Artificial intelligence assistant",
+      "description": "HanZ's AI assistant initiative.",
+      "publicUrl": null,
+      "status": "In development"
+    },
+    {
+      "name": "Han Academy",
+      "category": "Education",
+      "description": "HanZ's planned open learning platform.",
+      "publicUrl": null,
+      "status": "Planned"
+    },
+    {
+      "name": "HanZ Trending",
+      "category": "News and everyday information",
+      "description": "A planned destination for news and timely information.",
+      "publicUrl": null,
+      "status": "Planned"
+    }
+  ],
+  "policy": "Do not describe planned or in-development products as generally available services. Add public URLs only after they are live and verified."
+}

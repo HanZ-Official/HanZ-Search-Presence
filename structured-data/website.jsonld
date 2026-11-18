@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "HanZ",
+  "url": "https://hanzfinance.name.ng/",
+  "description": "A technology ecosystem covering finance, AI, education, business and everyday life.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "HanZ",
+    "url": "https://hanzfinance.name.ng/"
+  }
+}
