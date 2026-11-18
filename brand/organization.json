@@ -1,0 +1,19 @@
+{
+  "schemaType": "Organization",
+  "name": "HanZ",
+  "url": "https://hanzfinance.name.ng/",
+  "description": "HanZ is a technology ecosystem covering finance, AI, education, business and everyday life.",
+  "slogan": "Your Money in Your Hands.",
+  "additionalSlogan": "Dream Bigger. Build Daily with HanZ.",
+  "industry": "Technology",
+  "legalName": null,
+  "foundingDate": null,
+  "founder": null,
+  "logo": null,
+  "sameAs": [],
+  "notes": [
+    "HanZ is the public-facing brand name.",
+    "Do not infer a registered legal entity name, founding date, address, founder, social profile or logo URL.",
+    "Only publish verified organization facts in structured data."
+  ]
+}
